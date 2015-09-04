@@ -1,2 +1,2 @@
-# my-books-list
-write down the books that I had read or want to read
+# 我的阅读列表
+写下我读过或者想读的书籍
